@@ -1,0 +1,44 @@
+{
+  "name": "btccore-mnemonic",
+  "version": "1.2.3",
+  "description": "BIP39 Mnemonics implemented for Btccore.",
+  "author": "Open Wallet Stack <dev@openwalletstack.com>",
+  "main": "index.js",
+  "scripts": {
+    "lint": "gulp lint",
+    "test": "gulp test",
+    "coverage": "gulp coverage",
+    "build": "gulp"
+  },
+  "contributors": [
+    {
+      "name": "Yemel Jardi",
+      "email": "angel.jardi@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/owstack/btccore-mnemonic.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "btccore",
+    "mnemonic",
+    "crypto",
+    "cryptography",
+    "encryption"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^1.1.2",
+    "btccore-build": "git://github.com/owstack/btccore-build.git#master",
+    "brfs": "^1.2.0",
+    "chai": "^1.10.0",
+    "gulp": "^3.8.10",
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "btccore-lib": "git://github.com/owstack/btccore-build.git#master",
+    "unorm": "^1.3.3"
+  }
+}
