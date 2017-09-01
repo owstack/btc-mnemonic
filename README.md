@@ -1,5 +1,4 @@
-<img src="http://btccore.io/css/images/module-mnemonic.png" alt="btccore mnemonics" height="35">
-BIP39 Mnemonics for btccore
+Btccore BIP39 Mnemonics
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/btccore-mnemonic.svg?style=flat-square)](https://www.npmjs.org/package/btccore-mnemonic)
@@ -10,7 +9,7 @@ A module for [btccore](https://github.com/owstack/btccore) that implements [Mnem
 
 ## Attribution
 
-This repository was created by copy forking [bitcore-mnemonic commit 532fbe1] (https://github.com/bitpay/bitcore-mnemonic/commit/532fbe1010502fee3f25bdd93cb8dde66fb1386e).
+This repository was created by copy forking [bitcore-mnemonic commit 532fbe1](https://github.com/bitpay/bitcore-mnemonic/commit/532fbe1010502fee3f25bdd93cb8dde66fb1386e).
 
 ## Getting Started
 

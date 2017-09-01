@@ -3,10 +3,7 @@
   "main": "./btccore-mnemonic.min.js",
   "version": "0.0.1",
   "homepage": "https://github.com/owstack/btccore-mnemonic",
-  "authors": [
-    "Open Wallet Stack"
-  ],
-  "description": "BIP39 - Mnemonics implemented for Btccore.",
+  "description": "BIP39 mnemonics support for Btccore.",
   "moduleType": [
     "globals"
   ],
