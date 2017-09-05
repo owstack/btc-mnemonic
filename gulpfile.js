@@ -1,6 +1,3 @@
 'use strict';
-
-var gulp_btccore = require('btccore-build');
-
-gulp_btccore('mnemonic');
-
+var owsTasks = require('ows-build');
+owsTasks('btccore', 'mnemonic');
