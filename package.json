@@ -21,17 +21,17 @@
     "cryptography",
     "encryption"
   ],
-  "license": "MIT",
+  "dependencies": {
+    "btccore-lib": "https://github.com/owstack/btccore-lib",
+    "unorm": "^1.3.3"
+  },
   "devDependencies": {
     "assert": "^1.1.2",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
     "mocha": "^2.2.5",
-    "ows-build": "git://github.com/owstack/ows-build.git"
+    "ows-build": "https://github.com/owstack/ows-build"
   },
-  "dependencies": {
-    "btccore-lib": "git://github.com/owstack/btccore-lib.git",
-    "unorm": "^1.3.3"
-  }
+  "license": "MIT"
 }
