@@ -1,15 +1,15 @@
 {
-  "name": "btccore-mnemonic",
-  "main": "./btccore-mnemonic.min.js",
+  "name": "btc-mnemonic",
+  "main": "./btc-mnemonic.min.js",
   "version": "0.0.1",
-  "homepage": "https://github.com/owstack/btccore-mnemonic",
-  "description": "BIP39 mnemonics support for Btccore.",
+  "homepage": "https://github.com/owstack/btc-mnemonic",
+  "description": "BIP39 mnemonics support.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
     "bitcoin",
-    "btccore",
+    "btc",
     "btc",
     "satoshi",
     "mnemonic"
