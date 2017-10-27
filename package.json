@@ -1,5 +1,5 @@
 {
-  "name": "btc-mnemonic",
+  "name": "@owstack/btc-mnemonic",
   "version": "0.0.1",
   "description": "BIP39 Mnemonics support.",
   "main": "index.js",
@@ -22,7 +22,7 @@
     "encryption"
   ],
   "dependencies": {
-    "btc-lib": "https://github.com/owstack/btc-lib",
+    "@owstack/btc-lib": "^0.0.1",
     "unorm": "^1.3.3"
   },
   "devDependencies": {
@@ -31,7 +31,7 @@
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
     "mocha": "^2.2.5",
-    "ows-build": "https://github.com/owstack/ows-build"
+    "@owstack/ows-build": "^0.0.1"
   },
   "license": "MIT"
 }
